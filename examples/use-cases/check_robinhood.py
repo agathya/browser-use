@@ -1,4 +1,4 @@
-# Goal: Checks for available visa appointment slots on the Greece MFA website.
+# Goal: Download the latest crypto and stock data from Robinhood.
 
 import asyncio
 import os
